@@ -1,0 +1,134 @@
+﻿  CPM.cpp
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\stochastic.h(11): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(19): warning C4305: “=”: 从“double”到“float”截断
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(189): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(190): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(261): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(262): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(357): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(396): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(407): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(422): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(470): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(472): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(477): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(483): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(497): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(500): warning C4244: “*=”: 从“double”转换到“float”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(504): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(529): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(530): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(539): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(656): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(659): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(661): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(778): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(772): note: 编译类 模板 成员函数“bool Image<float>::imresize(float,InterType)”时
+  e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(39): note: 参见对正在编译的类 模板 实例化“Image<float>”的引用
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(779): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imagepyramid.h(62): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imagepyramid.h(57): note: 编译类 模板 成员函数“void ImagePyramid<float>::ConstructPyramid(const FImage &,float,int)”时
+  e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(61): note: 参见对正在编译的函数 模板 实例化“void ImagePyramid<float>::ConstructPyramid(const FImage &,float,int)”的引用
+  e:\cplusplus\opencv_dis\opencv_dis\cpm.h(77): note: 参见对正在编译的类 模板 实例化“ImagePyramid<float>”的引用
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imagepyramid.h(69): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imagepyramid.h(77): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imagepyramid.h(82): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imagefeature.h(82): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(78): note: 参见对正在编译的函数 模板 实例化“void ImageFeature::imSIFT<float>(const Image<float> &,UCImage &,int,int,bool,int)”的引用
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(679): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(122): note: 参见对正在编译的函数 模板 实例化“void Image<int>::copy<int>(const Image<int> &)”的引用
+  e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(122): note: 参见对正在编译的函数 模板 实例化“void Image<int>::copy<int>(const Image<int> &)”的引用
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(682): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imageprocessing.h(270): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(782): note: 参见对正在编译的函数 模板 实例化“void ImageProcessing::ResizeImage<T,T>(const T1 *,T2 *,int,int,int,float,InterType)”的引用
+          with
+          [
+              T=float,
+              T1=float,
+              T2=float
+          ]
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(772): note: 编译类 模板 成员函数“bool Image<float>::imresize(float,InterType)”时
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imageprocessing.h(271): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imageprocessing.h(293): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imageprocessing.h(294): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(2202): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(1007): note: 参见对正在编译的函数 模板 实例化“void Image<float>::normalize<unsigned char>(Image<unsigned char> &,float,float) const”的引用
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(1007): note: 参见对正在编译的函数 模板 实例化“void Image<float>::normalize<unsigned char>(Image<unsigned char> &,float,float) const”的引用
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(1004): note: 编译类 模板 成员函数“void Image<float>::imagesc(char *,int) const”时
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imageio.h(124): warning C4477: “sprintf”: 格式字符串“%.3f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(1008): note: 参见对正在编译的函数 模板 实例化“void ImageIO::showGrayImageAsColor<int>(const char *,const unsigned char *,int,int,T,T,int)”的引用
+          with
+          [
+              T=int
+          ]
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imageio.h(124): warning C4477: “sprintf”: 格式字符串“%.3f”需要类型“double”的参数，但可变参数 2 拥有了类型“int”
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(797): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imagepyramid.h(78): note: 参见对正在编译的函数 模板 实例化“void Image<float>::imresize<float>(Image<float> &,float,InterType) const”的引用
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imagepyramid.h(78): note: 参见对正在编译的函数 模板 实例化“void Image<float>::imresize<float>(Image<float> &,float,InterType) const”的引用
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imagepyramid.h(57): note: 编译类 模板 成员函数“void ImagePyramid<float>::ConstructPyramid(const FImage &,float,int)”时
+  e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(61): note: 参见对正在编译的函数 模板 实例化“void ImagePyramid<float>::ConstructPyramid(const FImage &,float,int)”的引用
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(798): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imageprocessing.h(194): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imageprocessing.h(284): note: 参见对正在编译的函数 模板 实例化“void ImageProcessing::BilinearInterpolate<T1,T2>(const T1 *,int,int,int,float,float,T2 *)”的引用
+          with
+          [
+              T1=float,
+              T2=float
+          ]
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(782): note: 参见对正在编译的函数 模板 实例化“void ImageProcessing::ResizeImage<T,T>(const T1 *,T2 *,int,int,int,float,InterType)”的引用
+          with
+          [
+              T=float,
+              T1=float,
+              T2=float
+          ]
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imageprocessing.h(195): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imageio.h(245): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imageio.h(78): note: 参见对正在编译的函数 模板 实例化“void ImageIO::CvmatToPixels<T>(const cv::Mat &,T *&,int &,int &,int &)”的引用
+          with
+          [
+              T=float
+          ]
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(930): note: 参见对正在编译的函数 模板 实例化“bool ImageIO::loadImage<T>(const char *,T *&,int &,int &,int &)”的引用
+          with
+          [
+              T=float
+          ]
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(928): note: 编译类 模板 成员函数“bool Image<float>::imread(const char *)”时
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imageio.h(187): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imageio.h(85): note: 参见对正在编译的函数 模板 实例化“cv::Mat ImageIO::CvmatFromPixels<T>(const T *,int,int,int,ImageIO::ImageType)”的引用
+          with
+          [
+              T=float
+          ]
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(977): note: 参见对正在编译的函数 模板 实例化“bool ImageIO::saveImage<T>(const char *,const T *,int,int,int,ImageIO::ImageType)”的引用
+          with
+          [
+              T=float
+          ]
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(976): note: 编译类 模板 成员函数“bool Image<float>::imwrite(const char *,ImageIO::ImageType) const”时
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imageio.h(193): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imageio.h(195): warning C4244: “=”: 从“float”转换到“uchar”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imageio.h(199): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(679): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(2196): note: 参见对正在编译的函数 模板 实例化“void Image<unsigned char>::copy<float>(const Image<float> &)”的引用
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(2196): note: 参见对正在编译的函数 模板 实例化“void Image<unsigned char>::copy<float>(const Image<float> &)”的引用
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(1007): note: 参见对正在编译的函数 模板 实例化“void Image<float>::normalize<unsigned char>(Image<unsigned char> &,float,float) const”的引用
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(1007): note: 参见对正在编译的函数 模板 实例化“void Image<float>::normalize<unsigned char>(Image<unsigned char> &,float,float) const”的引用
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(682): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(686): warning C4244: “=”: 从“const float”转换到“unsigned char”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imageprocessing.h(209): warning C4244: “+=”: 从“float”转换到“unsigned char”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imageprocessing.h(209): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imageprocessing.h(481): warning C4101: “offset”: 未引用的局部变量
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\image.h(1444): note: 参见对正在编译的函数 模板 实例化“void ImageProcessing::vfiltering<T1,T>(const T1 *,T2 *,int,int,int,const float *,int)”的引用
+          with
+          [
+              T1=float,
+              T=float,
+              T2=float
+          ]
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imagefeature.h(106): note: 参见对正在编译的函数 模板 实例化“void Image<float>::imfilter_hv<float>(Image<float> &,const float *,int,const float *,int) const”的引用
+  e:\cplusplus\opencv_dis\opencv_dis\cpm_include\imagefeature.h(106): note: 参见对正在编译的函数 模板 实例化“void Image<float>::imfilter_hv<float>(Image<float> &,const float *,int,const float *,int) const”的引用
+  e:\cplusplus\opencv_dis\opencv_dis\cpm.cpp(78): note: 参见对正在编译的函数 模板 实例化“void ImageFeature::imSIFT<float>(const Image<float> &,UCImage &,int,int,bool,int)”的引用
+  Opencv_Dis.vcxproj -> E:\Cplusplus\Opencv_Dis\x64\Debug\Opencv_Dis.exe
+  Opencv_Dis.vcxproj -> E:\Cplusplus\Opencv_Dis\x64\Debug\Opencv_Dis.pdb (Partial PDB)
